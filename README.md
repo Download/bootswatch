@@ -1,6 +1,8 @@
 Bootswatch
 ==========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/bootswatch.svg)](https://greenkeeper.io/)
+
 Bootswatch is a collection of free themes for [Bootstrap](http://getbootstrap.com/). Check it out at [bootswatch.com](http://bootswatch.com).
 
 Usage
